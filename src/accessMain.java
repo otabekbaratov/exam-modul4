@@ -60,6 +60,7 @@ public class accessMain {
             System.out.println(ipAddres);
             System.out.println(countHTTP);
             System.out.println(totalRequest);
+            //commit
 
             System.out.println("Log analysis completed. Report saved in " + LOG_FILE);
         }
